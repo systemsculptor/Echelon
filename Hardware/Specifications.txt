@@ -6,3 +6,9 @@ Bottom Case:
 	unknown x unknown
 	Length: unknown
 	width: unknown 
+
+height = 0.70in 
+
+Screen area:
+	(top to bottom)
+	14.2in (31.6cm)
