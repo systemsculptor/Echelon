@@ -1,0 +1,8 @@
+Top Case 
+	12.31 x 8.71
+	Length: 8.71in (22.12cm) 
+	width: 12.31in (31.26cm)
+Bottom Case:
+	unknown x unknown
+	Length: unknown
+	width: unknown 
