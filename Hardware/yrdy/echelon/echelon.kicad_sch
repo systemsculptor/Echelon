@@ -1,0 +1,99 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 5fc31bad-36d8-475d-8be1-c35c301b8728)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 15.24 15.24) (size 33.02 27.94) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 23addc06-e391-465a-9718-cd1838621e19)
+    (property "Sheetname" "battery" (at 15.24 14.5284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "battery.kicad_sch" (at 15.24 43.7646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "echelon"
+        (path "/5fc31bad-36d8-475d-8be1-c35c301b8728" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 92.71 15.24) (size 38.1 26.67) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6aedfbca-31f5-43a7-bf9d-2ecc96db9bbb)
+    (property "Sheetname" "component pcb" (at 92.71 14.5284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "untitled.kicad_sch" (at 92.71 42.4946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "echelon"
+        (path "/5fc31bad-36d8-475d-8be1-c35c301b8728" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 49.53 15.24) (size 41.91 27.94) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid a6f4d48b-1f47-4be8-8865-9c8b24a9a614)
+    (property "Sheetname" "motherboard" (at 49.53 14.5284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "motherboard.kicad_sch" (at 49.53 43.7646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "echelon"
+        (path "/5fc31bad-36d8-475d-8be1-c35c301b8728" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 132.08 16.51) (size 31.75 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid a812bb0d-d35d-4272-a56d-1b8191a18817)
+    (property "Sheetname" "power" (at 132.08 15.7984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "power.kicad_sch" (at 132.08 42.4946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "echelon"
+        (path "/5fc31bad-36d8-475d-8be1-c35c301b8728" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 165.1 16.51) (size 27.94 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid c8a523de-a27c-422a-8a30-078740471336)
+    (property "Sheetname" "ports " (at 165.1 15.7984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "port.kicad_sch" (at 165.1 42.4946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "echelon"
+        (path "/5fc31bad-36d8-475d-8be1-c35c301b8728" (page "6"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
