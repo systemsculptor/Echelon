@@ -575,4 +575,20 @@
     )
   )
 
+  (gr_text "Component Pcb for Utility\n" (at 180.34 170.18) (layer "F.Cu") (tstamp 75d83965-f44b-4426-b2e2-af6b1a462e40)
+    (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
+  )
+  (gr_text_box "microcontroller\n"
+    (start 119.38 99.06) (end 127 104.14) (layer "F.Cu") (tstamp 3b27e4a6-bb87-438e-9389-4f37f6a07bdd)
+      (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left top))
+    (stroke (width 0.2) (type solid))  )
+  (gr_text_box "wifi\n"
+    (start 144.78 91.44) (end 160.02 93.98) (layer "F.Cu") (tstamp 55138e2d-6015-4968-b8ac-2dc32a3d8931)
+      (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left top))
+    (stroke (width 0.2) (type solid))  )
+  (gr_text_box "bluetooth\n"
+    (start 144.78 81.28) (end 157.48 83.82) (layer "F.Cu") (tstamp 89857ccc-2494-4a0f-ab1f-6647c36528dd)
+      (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left top))
+    (stroke (width 0.2) (type solid))  )
+
 )
