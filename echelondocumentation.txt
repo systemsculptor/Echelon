@@ -1,0 +1,14 @@
+Front Case 
+
+
+
+Back Case
+
+
+
+
+
+keyboard dimensions
+keycap dimension 
+normalKey = 0.63 length 0.59 width
+tabKey = 
