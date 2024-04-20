@@ -493,6 +493,10 @@
     [
       "c8a523de-a27c-422a-8a30-078740471336",
       "ports "
+    ],
+    [
+      "7c6babe4-9f43-400b-acdb-183f407034f2",
+      "motherboard2"
     ]
   ],
   "text_variables": {}

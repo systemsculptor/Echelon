@@ -42,6 +42,23 @@
     )
   )
 
+  (sheet (at 194.31 17.78) (size 27.94 24.13) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 7c6babe4-9f43-400b-acdb-183f407034f2)
+    (property "Sheetname" "motherboard2" (at 194.31 17.0684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "motherboard2.kicad_sch" (at 194.31 42.4946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "echelon"
+        (path "/5fc31bad-36d8-475d-8be1-c35c301b8728" (page "7"))
+      )
+    )
+  )
+
   (sheet (at 49.53 15.24) (size 41.91 27.94) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
